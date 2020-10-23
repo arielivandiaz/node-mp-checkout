@@ -1,0 +1,28 @@
+{
+    "collector_id": 77778888,
+    "items": [],
+    "payer": {},
+    "back_urls": {
+        "success": "http://lagunite.com/examples/plumbus/fail.html",
+        "failure": "http://lagunite.com/examples/plumbus/fail.html",
+        "pending": "http://lagunite.com/examples/plumbus/pending.html"
+    },
+    "auto_return": "approved",
+    "payment_methods": {
+        "excluded_payment_methods": [
+            {
+                "id": "amex"
+            }
+        ],
+        "excluded_payment_types": [
+            {
+                "id": "atm"
+            }
+        ],
+        "installments": 6
+    },
+    "notification_url": "https://xxx%xxx/ipn",
+    "external_reference": "xxx%xxx@laguna.com.ar",
+    "additional_info": "",
+    "expires": false
+}

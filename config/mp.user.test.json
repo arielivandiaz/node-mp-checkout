@@ -1,0 +1,18 @@
+{
+    "name": "Lalo",
+    "surname": "Landa",
+    "email": "test_user_63274575@testuser.com",
+    "phone": {
+        "area_code": "11",
+        "number": 22223333
+    },
+    "identification": {
+        "type": "DNI",
+        "number": "12345678"
+    },
+    "address": {
+        "street_name": "False",
+        "street_number": 123,
+        "zip_code": "1111"
+    }
+}

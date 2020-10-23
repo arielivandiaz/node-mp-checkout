@@ -1,0 +1,10 @@
+{
+    "id": 1234,
+    "title": "Plumbus",
+    "currency_id": "ARS",
+    "picture_url": "img_url",
+    "description": "Plumbus, everyone has one",
+    "category_id": "Tech",
+    "quantity": "1",
+    "unit_price": "99,99"
+}
