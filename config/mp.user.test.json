@@ -1,7 +1,7 @@
 {
     "name": "Lalo",
     "surname": "Landa",
-    "email": "test_user_63274575@testuser.com",
+    "email": "xxx%xxx@testuser.com",
     "phone": {
         "area_code": "11",
         "number": 22223333
